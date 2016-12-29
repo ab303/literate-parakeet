@@ -12,7 +12,7 @@ gcc unordered.c -lpthread -o unordered
 
 To run the program:
 
- - ./unordered <total-no-of-nodes>
+ - ./unordered total-no-of-nodes
 
 
 
